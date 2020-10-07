@@ -1,5 +1,5 @@
 # Machine-Learning
-Machine Learning Projects from DATA 4319
+## Machine Learning Projects from DATA 4319
 
 This folder contains the various machine learning algorithms learned in Statistical & Machine Learning.
 
