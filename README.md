@@ -7,6 +7,7 @@ This folder contains the various machine learning algorithms learned in Statisti
     - Perceptron
     - k-Nearest Neighbors (KNN)
     - Linear Regression
+    - Gradient Descent
     
   + Unsupervised Learning Algorithms:
   
