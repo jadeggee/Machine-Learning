@@ -8,6 +8,7 @@ This folder contains the various machine learning algorithms learned in Statisti
     - k-Nearest Neighbors (KNN)
     - Linear Regression
     - Gradient Descent
+    - Logistic Regression
     
   + Unsupervised Learning Algorithms:
   
