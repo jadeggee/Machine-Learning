@@ -11,5 +11,6 @@ This folder contains the various machine learning algorithms learned in Statisti
     - Logistic Regression
     
   + Unsupervised Learning Algorithms:
+    - K-Means
   
   The algorithms completed will be updated on the above list as they are added to this repository.
