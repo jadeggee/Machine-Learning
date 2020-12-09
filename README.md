@@ -12,5 +12,7 @@ This folder contains the various machine learning algorithms learned in Statisti
     
   + Unsupervised Learning Algorithms:
     - K-Means
+    - Dimensionality Reduction (Technique)
+    - Artifical Neural Network (ANN) using a Multilayered Perceptron (MLP)
   
   The algorithms completed will be updated on the above list as they are added to this repository.
