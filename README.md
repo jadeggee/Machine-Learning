@@ -15,5 +15,6 @@ This folder contains the various machine learning algorithms learned in Statisti
     - Dimensionality Reduction (Technique)
     - Artifical Neural Network (ANN) using a Multilayered Perceptron (MLP)
     - Convolutional Neural Network (CNN)
+    - Recurrent Neural Network (RNN)
   
   The algorithms completed will be updated on the above list as they are added to this repository.
